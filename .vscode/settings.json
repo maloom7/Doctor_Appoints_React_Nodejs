@@ -1,4 +1,4 @@
 {
     "files.autoSaveDelay": 0,
-    "files.refactoring.autoSave": false
+    "files.refactoring.autoSave": true
 }
